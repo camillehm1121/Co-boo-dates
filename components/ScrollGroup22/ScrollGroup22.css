@@ -1,0 +1,30 @@
+.scroll-group-2::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.scroll-group-2 {
+  align-items: flex-start;
+  display: flex;
+  height: 196px;
+  justify-content: flex-end;
+  left: 24px;
+  overflow-x: scroll;
+  position: absolute;
+  top: 1003px;
+}
+
+.scroll-group-3::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.scroll-group-3 {
+  align-items: center;
+  display: flex;
+  height: 196px;
+  min-width: 393px;
+  overflow-x: scroll;
+  position: relative;
+}
+

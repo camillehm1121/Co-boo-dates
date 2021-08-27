@@ -1,0 +1,94 @@
+.card-2 {
+  align-items: flex-start;
+  display: flex;
+  height: 818px;
+  left: 0;
+  position: absolute;
+  top: 315px;
+}
+
+.overlap-group11 {
+  height: 818px;
+  position: relative;
+  width: 2291px;
+}
+
+.group-2608 {
+  align-items: flex-start;
+  display: flex;
+  height: 818px;
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.overlap-group3-2 {
+  border-radius: 30px;
+  height: 818px;
+  position: relative;
+  width: 415px;
+}
+
+.group-2606 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 30px;
+  box-shadow: 0px 15px 30px #00000029;
+  display: flex;
+  height: 818px;
+  left: 0;
+  min-width: 415px;
+  position: absolute;
+  top: 0;
+}
+
+.rectangle-2311 {
+  background-color: var(--caribbean-green-pearl);
+  border-radius: 30px;
+  box-shadow: 0px 15px 30px #00000029;
+  height: 50px;
+  width: 415px;
+}
+
+.discover-by-meal {
+  left: 126px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 14px;
+  white-space: nowrap;
+}
+
+.group-2736 {
+  align-items: flex-end;
+  background-color: var(--caribbean-green-pearl);
+  border-radius: 30px;
+  box-shadow: 0px 15px 30px #00000029;
+  display: flex;
+  height: 50px;
+  justify-content: flex-end;
+  left: 1px;
+  min-width: 415px;
+  padding: 9.0px 68px;
+  position: absolute;
+  top: 471px;
+}
+
+.text-1 {
+  height: 30px;
+  letter-spacing: 0;
+  line-height: 20px;
+  width: 277px;
+}
+
+.text-2 {
+  height: 30px;
+  left: 71px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 389px;
+  width: 277px;
+}
+

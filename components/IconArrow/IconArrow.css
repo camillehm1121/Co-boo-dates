@@ -1,0 +1,32 @@
+.icon-arrow {
+  align-items: flex-start;
+  display: flex;
+  height: 15px;
+  min-width: 15px;
+}
+
+.overlap-group1-2 {
+  height: 16px;
+  margin-top: -0.71px;
+  position: relative;
+  width: 16px;
+}
+
+.path-2 {
+  height: 16px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 8px;
+}
+
+.line {
+  height: 1px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 8px;
+  width: 15px;
+}
+

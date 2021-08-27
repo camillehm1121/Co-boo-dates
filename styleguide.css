@@ -1,0 +1,196 @@
+:root { 
+  --abbey: #4f4f4f;
+  --black: #000000;
+  --caribbean-green-pearl: #7bed8d;
+  --caribbean-green-pearl-32: #7aeb8b;
+  --celadon: #a4f5b1;
+  --dove-gray: #707070;
+  --macaroni-cheese: #ffbe88;
+  --mountain-mist: #949397;
+  --ocean-green-pearl: #56c596;
+  --ottoman-22: #ebfdee96;
+  --ottoman-222: #ebfdee96;
+  --ottoman-4: #ebfdee95;
+  --ottoman2: #ebfdee97;
+  --pink-flare: #e7b7c8;
+  --quick-silver: #a4a2aa;
+  --romance: #fdfdfd;
+  --sea-serpent: #47cacc;
+  --tuna: #373447;
+  --white: #ffffff;
+ 
+  --font-size-l2: 11px;
+  --font-size-s: 14px;
+  --font-size-xl2: 12px;
+  --font-size-xxxl: 16px;
+  --font-size-xxxs: 7px;
+  --font-size-xxxxl: 18px;
+  --font-size-xxxxxl: 20px;
+ 
+  --font-family-_applesystemuifont-bold: ".AppleSystemUIFont-Bold", Helvetica;
+  --font-family-_applesystemuifont-regular: ".AppleSystemUIFont-Regular", Helvetica;
+  --font-family-acuminpro_semicondensed-medium: "AcuminPro SemiCondensed-Medium", Helvetica;
+  --font-family-arial-regular: "Arial-Regular", Helvetica;
+  --font-family-helveticaneue-regular: "HelveticaNeue-Regular", Helvetica;
+  --font-family-quicksand: "Quicksand", Helvetica;
+  --font-family-roboto: "Roboto", Helvetica;
+}
+.quicksand-bold-dove-gray-16px {
+  color: var(--dove-gray);
+  font-family: var(--font-family-quicksand);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.quicksand-bold-romance-18px {
+  color: var(--romance);
+  font-family: var(--font-family-quicksand);
+  font-size: var(--font-size-xxxxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.quicksand-bold-tuna-16px {
+  color: var(--tuna);
+  font-family: var(--font-family-quicksand);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.quicksand-normal-quick-silver-20px {
+  color: var(--quick-silver);
+  font-family: var(--font-family-quicksand);
+  font-size: var(--font-size-xxxxxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.quicksand-bold-dove-gray-14px {
+  color: var(--dove-gray);
+  font-family: var(--font-family-quicksand);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.quicksand-bold-mountain-mist-11px {
+  color: var(--mountain-mist);
+  font-family: var(--font-family-quicksand);
+  font-size: var(--font-size-l2);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.quicksand-bold-black-8px {
+  color: var(--black);
+  font-family: var(--font-family-quicksand);
+  font-size: 8px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.-applesystemuifont-bold-black-7px {
+  color: var(--black);
+  font-family: var(--font-family-_applesystemuifont-bold);
+  font-size: var(--font-size-xxxs);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.-applesystemuifont-bold-black-4px {
+  color: var(--black);
+  font-family: var(--font-family-_applesystemuifont-bold);
+  font-size: 4px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.-applesystemuifont-regular-normal-white-11px {
+  color: var(--white);
+  font-family: var(--font-family-_applesystemuifont-regular);
+  font-size: var(--font-size-l2);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.quicksand-bold-black-7px {
+  color: var(--black);
+  font-family: var(--font-family-quicksand);
+  font-size: var(--font-size-xxxs);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.acuminprosemicondensed-medium-abbey-7px {
+  color: var(--abbey);
+  font-family: var(--font-family-acuminpro_semicondensed-medium);
+  font-size: var(--font-size-xxxs);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.-applesystemuifont-bold-black-12px {
+  color: var(--black);
+  font-family: var(--font-family-_applesystemuifont-bold);
+  font-size: var(--font-size-xl2);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.quicksand-medium-mountain-mist-12px {
+  color: var(--mountain-mist);
+  font-family: var(--font-family-quicksand);
+  font-size: var(--font-size-xl2);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.helveticaneue-regular-normal-white-20px {
+  color: var(--white);
+  font-family: var(--font-family-helveticaneue-regular);
+  font-size: var(--font-size-xxxxxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.arial-regular-normal-white-25px {
+  color: var(--white);
+  font-family: var(--font-family-arial-regular);
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.quicksand-medium-mountain-mist-6px {
+  color: var(--mountain-mist);
+  font-family: var(--font-family-quicksand);
+  font-size: 6px;
+  font-style: normal;
+  font-weight: 500;
+}
+
+.quicksand-bold-white-20px {
+  color: var(--white);
+  font-family: var(--font-family-quicksand);
+  font-size: var(--font-size-xxxxxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.roboto-normal-white-13px {
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.border-8px-ocean-green-pearl {
+  border: 8px solid var(--ocean-green-pearl);
+}
+
+.border-1px-dove-gray {
+  border: 1px solid var(--dove-gray);
+}

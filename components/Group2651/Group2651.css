@@ -1,0 +1,39 @@
+.group-2651 {
+  align-items: flex-end;
+  display: flex;
+  height: 43px;
+  left: 131px;
+  padding: 0.8px 0;
+  position: absolute;
+  top: 21px;
+}
+
+.overlap-group4 {
+  height: 41px;
+  position: relative;
+  width: 150px;
+}
+
+.todays-feed {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 25px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+}
+
+.wed-may-6th {
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: 10px;
+  left: 42px;
+  letter-spacing: 0;
+  line-height: 15.6px;
+  position: absolute;
+  top: 26px;
+  white-space: nowrap;
+  width: 66px;
+}
+

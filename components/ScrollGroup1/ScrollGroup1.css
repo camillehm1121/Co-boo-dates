@@ -1,0 +1,113 @@
+.scroll-group-1::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.scroll-group-1 {
+  align-items: flex-end;
+  display: flex;
+  height: 184px;
+  justify-content: flex-end;
+  left: 7px;
+  overflow-x: scroll;
+  position: absolute;
+  top: 433px;
+}
+
+.overlap-group4-2 {
+  align-self: flex-start;
+  height: 25px;
+  margin-top: 2.5px;
+  position: relative;
+  width: 51px;
+}
+
+.fruits {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.grain-food {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-bottom: -3.5px;
+  margin-left: 151px;
+  min-height: 25px;
+  min-width: 97px;
+  white-space: nowrap;
+}
+
+.drink {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-bottom: -3.5px;
+  margin-left: 136px;
+  min-height: 25px;
+  min-width: 48px;
+  white-space: nowrap;
+}
+
+.staple-food {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-bottom: -4.5px;
+  margin-left: 196px;
+  min-height: 25px;
+  min-width: 106px;
+  white-space: nowrap;
+}
+
+.dairy-food {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-bottom: -4.5px;
+  margin-left: 132px;
+  min-height: 25px;
+  min-width: 97px;
+  white-space: nowrap;
+}
+
+.vegetable {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-bottom: -4.5px;
+  margin-left: 141px;
+  min-height: 25px;
+  min-width: 91px;
+  white-space: nowrap;
+}
+
+.color {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-bottom: -4.5px;
+  margin-left: 146px;
+  min-height: 25px;
+  min-width: 89px;
+  white-space: nowrap;
+}
+
+.meat {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-bottom: -3.5px;
+  margin-left: 149px;
+  min-height: 25px;
+  min-width: 46px;
+  white-space: nowrap;
+}
+
+.drink-1 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-bottom: -4.5px;
+  margin-left: 286px;
+  min-height: 25px;
+  min-width: 48px;
+  white-space: nowrap;
+}
+

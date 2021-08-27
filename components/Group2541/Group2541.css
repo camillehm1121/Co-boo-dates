@@ -1,0 +1,19 @@
+.group-2541 {
+  align-items: flex-end;
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/611fdac8a506a1017c382f98/releases/611fdd1afc0af3fcbb2108e6/img/path-11520-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  margin-left: 0;
+  margin-top: 4px;
+  min-width: 80px;
+}
+
+.rectangle-566-1 {
+  background-color: var(--pink-flare);
+  border-radius: 30px;
+  height: 14px;
+  margin-bottom: 0;
+  width: 30px;
+}
+

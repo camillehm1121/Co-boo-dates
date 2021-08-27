@@ -1,0 +1,26 @@
+.group-2726 {
+  align-items: flex-end;
+  display: flex;
+  height: 194px;
+  margin-left: 57px;
+  min-width: 196px;
+}
+
+.overlap-group2-1 {
+  align-items: flex-start;
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/611fdac8a506a1017c382f98/releases/611fdd1afc0af3fcbb2108e6/img/rectangle-2308-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 193px;
+  min-width: 196px;
+  padding: 1.5px 1px;
+}
+
+.meat-1 {
+  letter-spacing: 0;
+  line-height: 18px;
+  min-height: 25px;
+  white-space: nowrap;
+}
+

@@ -1,0 +1,60 @@
+.group-2702 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-right: 3.0px;
+  min-height: 23px;
+  width: 30px;
+}
+
+.dinner {
+  letter-spacing: 0;
+  line-height: 8px;
+  min-height: 12px;
+  width: 30px;
+}
+
+.group-2570 {
+  align-items: flex-end;
+  display: flex;
+  height: 9px;
+  margin-top: 2px;
+  min-width: 30px;
+}
+
+.overlap-group6-2 {
+  height: 11px;
+  margin-bottom: -2px;
+  position: relative;
+  width: 30px;
+}
+
+.x20g-co {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 7px;
+  opacity: 0.69;
+  position: absolute;
+  top: 0;
+  width: 30px;
+}
+
+.number-1 {
+  left: 21px;
+  letter-spacing: 0;
+  line-height: 4px;
+  position: absolute;
+  top: 4px;
+  width: 6px;
+}
+
+.e-1 {
+  left: 23px;
+  letter-spacing: -0.07px;
+  line-height: 7px;
+  position: absolute;
+  text-align: right;
+  top: 1px;
+  white-space: nowrap;
+}
+

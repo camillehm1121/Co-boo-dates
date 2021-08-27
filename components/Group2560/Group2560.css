@@ -1,0 +1,81 @@
+.group-2560 {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 0;
+  min-width: 179px;
+}
+
+.overlap-group8 {
+  height: 179px;
+  position: relative;
+  width: 179px;
+}
+
+.rectangle {
+  border-radius: 89.5px;
+  height: 165px;
+  left: 7px;
+  opacity: 0.08;
+  position: absolute;
+  top: 7px;
+  width: 165px;
+}
+
+.group-2559 {
+  align-items: flex-start;
+  display: flex;
+  height: 179px;
+  justify-content: center;
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.overlap-group6-1 {
+  align-items: flex-start;
+  border: 8px solid #56c59614;
+  border-radius: 89.5px;
+  display: flex;
+  height: 187px;
+  margin-top: -4px;
+  min-width: 187px;
+}
+
+.group-2716 {
+  align-items: flex-start;
+  display: flex;
+  height: 179px;
+  justify-content: center;
+  margin-left: -4px;
+  margin-top: -4.0px;
+  min-width: 179px;
+}
+
+.overlap-group7 {
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/611fdac8a506a1017c382f98/releases/611fdd1afc0af3fcbb2108e6/img/path-12@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 187px;
+  margin-top: -4px;
+  position: relative;
+  width: 187px;
+}
+
+.path {
+  height: 76px;
+  left: 90px;
+  object-fit: cover;
+  position: absolute;
+  top: 22px;
+  width: 76px;
+}
+
+.path-1 {
+  height: 165px;
+  left: 27px;
+  object-fit: cover;
+  position: absolute;
+  top: 11px;
+  width: 149px;
+}
+

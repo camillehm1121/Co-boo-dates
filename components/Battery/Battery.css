@@ -1,0 +1,22 @@
+.battery {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 1.0px;
+  margin-left: 14px;
+  min-height: 13px;
+  width: 8px;
+}
+
+.path-66 {
+  height: 7px;
+  object-fit: cover;
+  width: 8px;
+}
+
+.rectangle-37 {
+  height: 6px;
+  object-fit: cover;
+  width: 8px;
+}
+

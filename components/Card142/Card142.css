@@ -1,0 +1,42 @@
+.card-1 {
+  align-items: flex-end;
+  display: flex;
+  height: 473px;
+  left: 18px;
+  position: absolute;
+  top: 0;
+}
+
+.overlap-group3-1 {
+  height: 473px;
+  margin-bottom: 0;
+  position: relative;
+  width: 381px;
+}
+
+.card-1-1 {
+  background-color: var(--white);
+  border-radius: 30px;
+  box-shadow: 0px 15px 30px #00000029;
+  height: 283px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 381px;
+}
+
+.group-2603 {
+  align-items: flex-start;
+  display: flex;
+  height: 440px;
+  left: 6px;
+  position: absolute;
+  top: 33px;
+}
+
+.overlap-group4-1 {
+  height: 440px;
+  position: relative;
+  width: 352px;
+}
+
